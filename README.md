@@ -1,0 +1,2 @@
+# hm_webview2browsermode
+秀丸上内にWindows10の新標準ブラウザであるMicrosoft New Edgeブラウザのコンポーネント「WebView2」を内部的に組み込む秀丸用プラグイン。
